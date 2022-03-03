@@ -1,0 +1,9 @@
+{
+  "title": "Example Manual",
+  "version": "0.1.0",
+  "authors": [],
+  "year": "2022",
+  "src": "src",
+  "main": "00.1-introduction.md",
+  "sections": ["default", "Basic", "Advanced"]
+}
